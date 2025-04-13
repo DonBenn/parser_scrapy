@@ -1,4 +1,4 @@
-# Прасер [документов PEP](https://www.python.org/dev/peps/) на базе фреймворка Scrapy 
+# Парсер [документов PEP](https://www.python.org/dev/peps/) на базе фреймворка Scrapy 
 
 Парсер ищет все [PEP](https://peps.python.org/) правила и выводит информацию о них в два CSV файла:
 1. Список всех имеющихся PEP: номер, название и статус
